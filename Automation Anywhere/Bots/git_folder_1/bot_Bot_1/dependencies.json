@@ -1,1 +1,1 @@
-{"path":"Automation Anywhere\\Bots\\git_folder_1\\Bot_1","manualDependencies":[],"scannedDependencies":[],"metadataDependencies":[]}
+{"path":"Automation Anywhere\\Bots\\git_folder_1\\Bot_1","manualDependencies":["Automation Anywhere\\Bots\\git_folder_1\\Child"],"scannedDependencies":[],"metadataDependencies":[]}
